@@ -2,12 +2,6 @@ var casper = require('casper').create({
 	waitTimeout: 60000
 });
 var server = require('webserver').create();
-// use this line to get all the games from sanzar
-//var matchSelector = '#fixturesAndResults';
-// use this line to get the results from sanzar
-//var matchSelector = '.results';
-// use this line to get the match details from sanzar
-var matchSelector = '#matchCentre';
 var body = {};
 
 console.log('running');

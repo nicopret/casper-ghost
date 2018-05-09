@@ -1,0 +1,22 @@
+{
+  "name": "casper-ghost",
+  "version": "1.0.0",
+  "description": "To use html-scrape-server, post the following json:",
+  "main": "html-scrape-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicopret/casper-ghost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicopret/casper-ghost/issues"
+  },
+  "homepage": "https://github.com/nicopret/casper-ghost#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
